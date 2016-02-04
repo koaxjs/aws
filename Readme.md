@@ -15,7 +15,7 @@ AWS SDK effect driver.
 ## Usage
 
 ```js
-import {aws, awsEffect} from 'redux-effects-aws'
+import {aws, awsEffect} from '@koax/aws'
 import koax from 'koax'
 
 const io = koax()
